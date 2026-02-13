@@ -1,0 +1,3 @@
+# Plugin dependencies
+jmcomic
+img2pdf
